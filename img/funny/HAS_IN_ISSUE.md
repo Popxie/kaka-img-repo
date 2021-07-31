@@ -3,7 +3,7 @@
  * @Author: xiehuaqiang
  * @FilePath: \kaka-img-repo\img\funny\HAS_IN_ISSUE.md
  * @Date: 2021-08-01 00:02:09
- * @LastEditTime: 2021-08-01 00:17:51
+ * @LastEditTime: 2021-08-01 00:37:11
 -->
 
 # 已上传到 issue 中的图片列表
@@ -14,6 +14,7 @@
 ![16](https://user-images.githubusercontent.com/24952644/127745696-0a945f56-214f-4368-8cab-fad8e5287331.jpg)
 
 ![20](https://user-images.githubusercontent.com/24952644/127745869-ba4fecec-0d13-4eca-82f3-6226df442e43.jpg)
+![23](https://user-images.githubusercontent.com/24952644/127742637-60a7e807-c8f1-4458-be5f-d3c8dbae1e39.jpg)
 
 ![30](https://user-images.githubusercontent.com/24952644/127745873-e01a85c2-7540-4b39-9cb7-214365689715.jpg)
 ![33](https://user-images.githubusercontent.com/24952644/127745715-95ca8b5b-e213-4ba5-881a-7668a2424b86.jpg)
